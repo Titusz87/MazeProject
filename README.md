@@ -13,9 +13,11 @@ Prerequisites
 - .NET SDK installed on your machine
 
 Running the Application
-1. Clone the repository
-   git clone https://github.com/Titusz87/MazeProject.git
-2. Build the project
-   dotnet build
-3. Run the project
-   dotnet run
+1. Clone the repository:
+   $ git clone https://github.com/Titusz87/MazeProject.git
+   
+3. Build the project:
+   $ dotnet build
+   
+5. Run the project:
+   $ dotnet run
