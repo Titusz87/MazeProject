@@ -1,6 +1,6 @@
 Maze Solver using A* Algorithm
 
-A console-based maze navigation application that implements the A* search algorithm to find optimal paths through grid-based mazes.
+A console-based maze navigation application that implements the A* search algorithm to find optimal paths through a grid-based maze.
 
 Overview
 
