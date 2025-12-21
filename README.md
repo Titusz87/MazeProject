@@ -14,5 +14,8 @@ Prerequisites
 
 Running the Application
 1. Clone the repository
-   git clone [your-repository-url]
-   cd [repository-name]
+   git clone https://github.com/Titusz87/MazeProject.git
+2. Build the project
+   dotnet build
+3. Run the project
+   dotnet run
