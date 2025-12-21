@@ -11,3 +11,8 @@ Technologies Used
 
 Prerequisites
 - .NET SDK installed on your machine
+
+Running the Application
+1. Clone the repository
+   git clone [your-repository-url]
+   cd [repository-name]
