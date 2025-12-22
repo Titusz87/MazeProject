@@ -8,7 +8,7 @@ Technologies Used
 Prerequisites
 - .NET SDK installed on your machine
 
-Running the Application
+Running the Application on Windows
 1. Clone the repository:
    $ git clone https://github.com/Titusz87/MazeProject.git
    
