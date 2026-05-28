@@ -10,7 +10,7 @@ Prerequisites
 
 Running the Application on Windows
 1. Clone the repository:
-   $ git clone https://github.com/Titusz87/MazeProject.git
+   $ git clone https://github.com/Titusz87/MazeSolver-A-Star-.git
    
 3. Build the project:
    $ dotnet build
